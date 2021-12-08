@@ -17,7 +17,7 @@ title: "Hello, I'm Aaron"
 email: 'hello@elgrove.xyz'
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://elgrove.xyz" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://elgrove.github.io/elgrovexyz" # the base hostname & protocol for your site, e.g. https://example.com
 email_username: 'hello@elgrove.xyz'
 github_username: 'elgrove'
 linkedin_username: 'aaron-lloyd-london'
@@ -88,11 +88,6 @@ pagination:
 
 ############################################################
 
-### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
